@@ -5,13 +5,13 @@ import java.util.*;
 public class ArrayListEx3 {
 
 	public static void main(String[] args) {
-		ArrayList<String> al = new ArrayList<String>();
+	/*	ArrayList<String> al = new ArrayList<String>();
 		System.out.println("Is ArrayList is empty:" + al.isEmpty());
 		al.add("Ravi");
 		al.add("Vijay");
 		al.add("Ajay");
 		System.out.println("After insertion ");
-		System.out.println("Is ArrayList is empty:" + al.isEmpty());
+		System.out.println("Is ArrayList is empty:" + al.isEmpty());*/
 
 		// using retaiAll() Method:
 		ArrayList<String> al1 = new ArrayList<String>();

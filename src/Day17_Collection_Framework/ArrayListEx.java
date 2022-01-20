@@ -36,7 +36,7 @@ public class ArrayListEx {
 		// Traversing the list
 		for (Book b : list) {
 			System.out.println(b.id + " " + b.name + " " + b.author + "  " + b.pulisher + " " + b.quantity);
+
 		}
 	}
-
 }
