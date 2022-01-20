@@ -30,7 +30,7 @@ public class ArrayListEx3 {
 			System.out.println(itr.next()); 
 			System.out.println(al1);
 		}
-
+ 
 	}
 
 }

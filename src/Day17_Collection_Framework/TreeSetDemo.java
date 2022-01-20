@@ -13,12 +13,13 @@ public class TreeSetDemo {
 		ts.add("Demo");
 		ts.add("Demo");
 		ts.add("set");
-		//hs.add(new Integer(10));
+		// hs.add(new Integer(10));
 
 		Iterator<String> i = ts.iterator();
 		while (i.hasNext()) {
 			Object o = i.next();
 			System.out.println(o);
+
 		}
 
 	}
