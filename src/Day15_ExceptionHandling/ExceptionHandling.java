@@ -10,7 +10,7 @@ public class ExceptionHandling {
 			ae.printStackTrace();
 		}
 		System.out.println("Exception Handling Demo");
-
+		System.out.println("Hello there");
 	}
 
 }
